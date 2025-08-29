@@ -1,6 +1,12 @@
 ## Bilingual Dictionary App (English & Spanish) | JavaScript
 
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![API](https://img.shields.io/badge/API-DictionaryAPI.dev-blue?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat)
+
 ---
 
 📝 Descripción
@@ -48,22 +54,8 @@ git clone https://github.com/tuusuario/dictionary-app.git
 
 3. Escribe una palabra en inglés o español y presiona Enter
 
-
-
-
----
-
-✅ Badges
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![API](https://img.shields.io/badge/API-DictionaryAPI.dev-blue?style=flat)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat)
-
-
 ---
 
 📄 Licencia
 
-Mi royecto está bajo la licencia MIT – sos libre de usarlo y modificarlo.
+Mi proyecto está bajo la licencia MIT – sos libre de usarlo y modificarlo.
