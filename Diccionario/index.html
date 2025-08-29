@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dictionary App in JavaScript | Diccionario en JavaScript</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Dictionary</h1>
+      <button id="closeBtn" title="Cerrar">✖</button>
+    </header>
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Type any existing English word and press enter to get meaning, example, synonyms, etc." autocomplete="off" />
+    </div>
+    <div id="result" class="result">
+      <p class="info">Escribe una palabra en inglés y presiona Enter para buscar su significado.</p>
+    </div>
+  </div>
+  <div class="container" style="margin-top: 3rem;">
+    <header>
+      <h1>Diccionario Español</h1>
+      <p>(PUEDE FALLAR PORQUE NO HAY UNA API DE DICCIONARIO EN ESPAÑOL GRATUTITA CONFIABLE)</p>
+      <button id="closeBtnEs" title="Cerrar">✖</button>
+    </header>
+    <div class="search-box">
+      <input type="text" id="searchInputEs" placeholder="Escribe una palabra en español y presiona Enter para buscar su significado" autocomplete="off" />
+    </div>
+    <div id="resultEs" class="result">
+      <p class="info">Escribe una palabra en español y presiona Enter para buscar su significado.</p>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
